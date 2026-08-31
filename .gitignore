@@ -1,0 +1,26 @@
+# ========== Windows 系统文件 ==========
+# Thumbs.db 是 Windows 资源管理器生成的缩略图缓存
+Thumbs.db
+# Desktop.ini 是 Windows 文件夹的个性化配置
+Desktop.ini
+
+# ========== macOS 系统文件 ==========
+# .DS_Store 是 macOS Finder 自动生成的目录元数据
+.DS_Store
+
+# ========== 编辑器 / IDE 配置 ==========
+# VS Code / Trae 的编辑器配置目录
+.vscode/
+.trae/
+
+# ========== 日志与临时文件 ==========
+# 所有 .log 日志文件
+*.log
+# 所有 .tmp 临时文件
+*.tmp
+
+# ========== Node.js / 前端构建产物 ==========
+# npm 依赖目录（体积大，不提交）
+node_modules/
+# 构建输出目录
+dist/
